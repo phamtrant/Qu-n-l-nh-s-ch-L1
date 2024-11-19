@@ -1,2 +1,2 @@
-# Qu-n-l-nh-s-ch-L1
+# Quan ly nha sach L1
 Lập trình .NET
