@@ -1,0 +1,13 @@
+D:\LapTrinh.NET\ProjectCuoiKyNET\ProjectCuoiKyNET\bin\Debug\ProjectCuoiKyNET.exe.config
+D:\LapTrinh.NET\ProjectCuoiKyNET\ProjectCuoiKyNET\bin\Debug\ProjectCuoiKyNET.exe
+D:\LapTrinh.NET\ProjectCuoiKyNET\ProjectCuoiKyNET\bin\Debug\ProjectCuoiKyNET.pdb
+D:\LapTrinh.NET\ProjectCuoiKyNET\ProjectCuoiKyNET\obj\Debug\ProjectCuoiKyNET.csproj.AssemblyReference.cache
+D:\LapTrinh.NET\ProjectCuoiKyNET\ProjectCuoiKyNET\obj\Debug\ProjectCuoiKyNET.Form1.resources
+D:\LapTrinh.NET\ProjectCuoiKyNET\ProjectCuoiKyNET\obj\Debug\ProjectCuoiKyNET.Properties.Resources.resources
+D:\LapTrinh.NET\ProjectCuoiKyNET\ProjectCuoiKyNET\obj\Debug\ProjectCuoiKyNET.csproj.GenerateResource.cache
+D:\LapTrinh.NET\ProjectCuoiKyNET\ProjectCuoiKyNET\obj\Debug\ProjectCuoiKyNET.csproj.CoreCompileInputs.cache
+D:\LapTrinh.NET\ProjectCuoiKyNET\ProjectCuoiKyNET\obj\Debug\ProjectCuoiKyNET.exe
+D:\LapTrinh.NET\ProjectCuoiKyNET\ProjectCuoiKyNET\obj\Debug\ProjectCuoiKyNET.pdb
+D:\LapTrinh.NET\ProjectCuoiKyNET\ProjectCuoiKyNET\obj\Debug\ProjectCuoiKyNET.Form2.resources
+D:\LapTrinh.NET\ProjectCuoiKyNET\ProjectCuoiKyNET\obj\Debug\ProjectCuoiKyNET.Form3.resources
+D:\LapTrinh.NET\ProjectCuoiKyNET\ProjectCuoiKyNET\obj\Debug\ProjectCuoiKyNET.Form4.resources
